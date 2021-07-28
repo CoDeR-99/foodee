@@ -4,11 +4,11 @@
     padding: 0px 0px;
 }
 
-.topmain{
+body{
     background-color: rgb(247, 232, 232);
-    z-index: -10;
+   
     
-    /* rgb(247, 232, 232); */
+   
 }
 
 .main {
