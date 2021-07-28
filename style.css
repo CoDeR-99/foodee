@@ -19,7 +19,7 @@
 .img  {
     width: 1200px;
     height: 872px;
-    background: url("images/img1.jpg");
+    background: url("img1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 0.9;
@@ -100,7 +100,7 @@
 .aboutbox {
     /* border:3px solid green; */
     width: 50%;
-    background: url("images/wood_1.png");
+    background: url("wood_1.png");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -199,7 +199,7 @@ hr {
     /* border: 1px solid yellow; */
     width: 1200px;
     /* height: 1500px; */
-    background: url("images/wood_1.png");
+    background: url("wood_1.png");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -320,38 +320,38 @@ hr {
 /* filling the block with images*/
 
 .row111 {
-    background: url("images/res_img_11.jpg");
+    background: url("res_img_11.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .row1211 {
-    background: url("images/res_img_2.jpg");
+    background: url("res_img_2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .row1222 {
-    background: url("images/res_img_8.jpg");
+    background: url("res_img_8.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .row2112 {
-    background: url("images/res_img_7.jpg");
+    background: url("res_img_7.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: -37px 0px;
 }
 
 .row2121 {
-    background: url("images/res_img_6.jpg");
+    background: url("res_img_6.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .row221 {
-    background: url("images/res_img_3.jpg");
+    background: url("res_img_3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -403,7 +403,7 @@ hr {
     /* border: 1px solid white; */
     width: 1200px;
     height: 500px;
-    background-image: url("images/slide_3.jpg");
+    background-image: url("slide_3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -594,7 +594,7 @@ hr {
 }
 
 .upcomingblock {
-    background: url("images/wood_1.png");
+    background: url("wood_1.png");
     text-align: center;
     width: 1200px;
 }
@@ -799,7 +799,7 @@ hr {
 
 .footer{
     width: 1200px;
-    background: url("images/wood_1.png");
+    background: url("wood_1.png");
     /* height: 600px; */
 }
 
