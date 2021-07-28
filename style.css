@@ -7,6 +7,7 @@
 .topmain{
     background-color: rgb(247, 232, 232);
     z-index: -10;
+    width:100%;
     /* rgb(247, 232, 232); */
 }
 
