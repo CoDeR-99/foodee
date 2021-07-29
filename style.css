@@ -655,19 +655,19 @@ hr {
 }
 
 .boxheading{
-    font-size: 27px;
+    font-size: 25px;
     margin-top: 30px;
     
 }
 
 .boxdate{
-    font-size: 22px;
+    font-size: 20px;
     color: #808080;
     margin-bottom: 10px;
 }
 
 .boxdetail{
-    font-size: 20px;
+    font-size: 18px;
     color: #5E493A;
     margin-top: 20px;
     margin-bottom: 20px;
